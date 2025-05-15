@@ -17,8 +17,8 @@
 
 ## 📚 Atualmente Aprendendo / Aprimorando  
 
-- [Angular]  
-- [Arquitetura de Software]  
+- Angular
+- Arquitetura de Software 
 
 ## 📫 Como me encontrar  
 
