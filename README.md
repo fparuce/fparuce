@@ -27,3 +27,4 @@
           
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=fparuce&show_icons=true&theme=gotham)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fparuce&layout=compact&theme=gotham)](https://github.com/fparuce/github-readme-stats)
