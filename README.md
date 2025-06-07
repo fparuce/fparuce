@@ -24,10 +24,9 @@
 ## 📫 Como me encontrar  
 
 - LinkedIn: [Link](https://www.linkedin.com/in/felipe-costacurta-paruce/)
-          
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fparuce&show_icons=true&theme=gotham" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fparuce&layout=compact&theme=gotham" />
-</a>
+
+
+<div>
+          <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fparuce&show_icons=true&theme=gotham&include_all_commits=true" />  
+          <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fparuce&layout=compact&theme=gotham" />
+</div>
