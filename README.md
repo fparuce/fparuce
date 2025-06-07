@@ -27,8 +27,8 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fparuce&show_icons=true&theme=gotham&include_all_commits=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fparuce&theme=gotham&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fparuce&layout=compact&theme=gotham" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fparuce&layout=compact&theme=gotham&langs_count=8&card_width=320" />
 </a>
