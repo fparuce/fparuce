@@ -13,6 +13,7 @@
 
 ## 🔥 Meus Projetos Destacados  
 
+- [ParuceDelivery](https://github.com/fparuce/ParuceDelivery) - Projeto realizado com o Merguho Microsserviços Spring da AlgaWorks
 - [OWASP/Threat-Dragon](https://github.com/OWASP/threat-dragon) *Contribuídor* - WebApp em Framework Vue.Js para auxiliar na modelagem de ameaças.
 - [Pokedex-project-vue](https://github.com/fparuce/pokedex-project-vue) - Uma Pokedex construída com Vue.js 3
 
