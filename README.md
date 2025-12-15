@@ -6,10 +6,11 @@
 
 ## 🛠️ Tecnologias & Habilidades  
 
-- **Backend:** Java, Spring Boot  
+- **Backend:** Java, Spring Boot, Python, FastAPI
 - **Frontend:** JavaScript, Vue.js, Angular  
 - **Segurança:** OWASP Top 10, Desenvolvimento Seguro, AppSec  
-- **Ferramentas:** Git, Docker, SonarQube, 
+- **Ferramentas:** Git, Docker, SonarQube,
+- **Cloud:** Azure, AWS
 
 ## 🔥 Meus Projetos Destacados  
 
